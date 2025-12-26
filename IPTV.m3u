@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:25,00s Replay
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+#EXTINF:0,1-2-3 TV (270p)
+#EXTVLCOPT:network-caching=1000
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0,Now 80s (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 90s00s
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:0,NOW Rock
+#EXTVLCOPT:network-caching=1000
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:0,Now Rock (720p)
+#EXTVLCOPT:network-caching=1000
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
